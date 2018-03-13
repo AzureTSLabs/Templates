@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "abcstorage5370"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "AzureAdmin"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "AzurePassw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "abc5370"
+    },
+    "location": {
+      "value": "East US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
   }
 }
